@@ -5,19 +5,24 @@
 <br>
   <img src="https://github.com/jamaljm/Design-works/blob/main/UI/1%20(1).jpg" alt="" width="50%">
 <br>
-  <img src="https://github.com/jamaljm/Design-works/blob/main/UI/1%20(2).jpg" alt="" width="50%">
-<br>
-
+ 
   <img src="https://github.com/jamaljm/Design-works/blob/main/UI/1%20(3).jpg" alt="" width="50%">
 <br>
 
-  <img src="https://github.com/jamaljm/Design-works/blob/main/UI/1%20(4).jpg" alt="" width="50%">
-<br>
+ 
 
   <img src="https://github.com/jamaljm/Design-works/blob/main/UI/1%20(5).jpg" alt="" width="50%">
 <br>
   <img src="https://github.com/jamaljm/Design-works/blob/main/UI/1%20(6).jpg" alt="" width="50%">
 <br>
+ <img src="https://github.com/jamaljm/Design-works/blob/main/UI/1%20(1).png" alt="" width="20%">
+<br>
+
+  <img src="https://github.com/jamaljm/Design-works/blob/main/UI/1%20(2).png" alt="" width="20%">
+<br>
+ <img src="https://github.com/jamaljm/Design-works/blob/main/UI/1%20(4).png" alt="" width="20%">
+<br>
+
 
 <h3 align="left">Poster Designs</h3>
 
