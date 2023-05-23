@@ -27,6 +27,23 @@
 <h3 align="left">Poster Designs</h3>
 
 <br>
+ <img src="https://raw.githubusercontent.com/jamaljm/Design-works/main/posters/a%20(17).png" alt="" width="50%">
+<br>
+ <img src="https://raw.githubusercontent.com/jamaljm/Design-works/main/posters/a%20(18).png" alt="" width="50%">
+<br>
+ <img src="https://raw.githubusercontent.com/jamaljm/Design-works/main/posters/a%20(19).png" alt="" width="50%">
+<br>
+ <img src="https://raw.githubusercontent.com/jamaljm/Design-works/main/posters/a%20(20).png" alt="" width="50%">
+<br>
+ <img src="https://raw.githubusercontent.com/jamaljm/Design-works/main/posters/a%20(21).png" alt="" width="50%">
+<br>
+ <img src="https://raw.githubusercontent.com/jamaljm/Design-works/main/posters/a%20(22).png" alt="" width="50%">
+<br>
+ <img src="https://raw.githubusercontent.com/jamaljm/Design-works/main/posters/a%20(23).png" alt="" width="50%">
+<br>
+ <img src="https://raw.githubusercontent.com/jamaljm/Design-works/main/posters/a%20(24).png" alt="" width="50%">
+<br>
+<br>
   <img src="https://raw.githubusercontent.com/jamaljm/Design-works/main/posters/a%20(1).jpeg" alt="" width="50%">
 <br>
   <img src="https://raw.githubusercontent.com/jamaljm/Design-works/main/posters/a%20(2).jpg" alt="" width="50%">
@@ -58,20 +75,4 @@
  <img src="https://raw.githubusercontent.com/jamaljm/Design-works/main/posters/a%20(15).png" alt="" width="50%">
 <br>
  <img src="https://raw.githubusercontent.com/jamaljm/Design-works/main/posters/a%20(16).png" alt="" width="50%">
-<br>
- <img src="https://raw.githubusercontent.com/jamaljm/Design-works/main/posters/a%20(17).png" alt="" width="50%">
-<br>
- <img src="https://raw.githubusercontent.com/jamaljm/Design-works/main/posters/a%20(18).png" alt="" width="50%">
-<br>
- <img src="https://raw.githubusercontent.com/jamaljm/Design-works/main/posters/a%20(19).png" alt="" width="50%">
-<br>
- <img src="https://raw.githubusercontent.com/jamaljm/Design-works/main/posters/a%20(20).png" alt="" width="50%">
-<br>
- <img src="https://raw.githubusercontent.com/jamaljm/Design-works/main/posters/a%20(21).png" alt="" width="50%">
-<br>
- <img src="https://raw.githubusercontent.com/jamaljm/Design-works/main/posters/a%20(22).png" alt="" width="50%">
-<br>
- <img src="https://raw.githubusercontent.com/jamaljm/Design-works/main/posters/a%20(23).png" alt="" width="50%">
-<br>
- <img src="https://raw.githubusercontent.com/jamaljm/Design-works/main/posters/a%20(24).png" alt="" width="50%">
-<br>
+
